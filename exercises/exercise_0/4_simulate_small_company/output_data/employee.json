@@ -1,0 +1,162 @@
+[
+  {
+    "first_name": "Anna",
+    "last_name": "Andersson",
+    "phone_number": "+46701234567",
+    "email": "anna.andersson@example.com",
+    "department": "IT",
+    "salary": 45000
+  },
+  {
+    "first_name": "Erik",
+    "last_name": "Johansson",
+    "phone_number": "+46702345678",
+    "email": "erik.johansson@example.com",
+    "department": "sales",
+    "salary": 48000
+  },
+  {
+    "first_name": "Sara",
+    "last_name": "Karlsson",
+    "phone_number": "+46703456789",
+    "email": "sara.karlsson@example.com",
+    "department": "marketing",
+    "salary": 42000
+  },
+  {
+    "first_name": "Per",
+    "last_name": "Nilsson",
+    "phone_number": "+46704567890",
+    "email": "per.nilsson@example.com",
+    "department": "HR",
+    "salary": 40000
+  },
+  {
+    "first_name": "Maria",
+    "last_name": "Lindgren",
+    "phone_number": "+46705678901",
+    "email": "maria.lindgren@example.com",
+    "department": "IT",
+    "salary": 50000
+  },
+  {
+    "first_name": "Jonas",
+    "last_name": "Svensson",
+    "phone_number": "+46706789012",
+    "email": "jonas.svensson@example.com",
+    "department": "sales",
+    "salary": 52000
+  },
+  {
+    "first_name": "Emma",
+    "last_name": "Berg",
+    "phone_number": "+46707890123",
+    "email": "emma.berg@example.com",
+    "department": "marketing",
+    "salary": 43000
+  },
+  {
+    "first_name": "Daniel",
+    "last_name": "Pettersson",
+    "phone_number": "+46708901234",
+    "email": "daniel.pettersson@example.com",
+    "department": "HR",
+    "salary": 41000
+  },
+  {
+    "first_name": "Linda",
+    "last_name": "Gustafsson",
+    "phone_number": "+46709012345",
+    "email": "linda.gustafsson@example.com",
+    "department": "IT",
+    "salary": 47000
+  },
+  {
+    "first_name": "Martin",
+    "last_name": "Holm",
+    "phone_number": "+46700123456",
+    "email": "martin.holm@example.com",
+    "department": "sales",
+    "salary": 49000
+  },
+  {
+    "first_name": "Sofia",
+    "last_name": "Bengtsson",
+    "phone_number": "+46701122334",
+    "email": "sofia.bengtsson@example.com",
+    "department": "marketing",
+    "salary": 44000
+  },
+  {
+    "first_name": "Oskar",
+    "last_name": "Olsson",
+    "phone_number": "+46702233445",
+    "email": "oskar.olsson@example.com",
+    "department": "HR",
+    "salary": 39000
+  },
+  {
+    "first_name": "Karin",
+    "last_name": "Lundberg",
+    "phone_number": "+46703344556",
+    "email": "karin.lundberg@example.com",
+    "department": "IT",
+    "salary": 55000
+  },
+  {
+    "first_name": "Fredrik",
+    "last_name": "Engström",
+    "phone_number": "+46704455667",
+    "email": "fredrik.engstrom@example.com",
+    "department": "sales",
+    "salary": 51000
+  },
+  {
+    "first_name": "Hanna",
+    "last_name": "Eklund",
+    "phone_number": "+46705566778",
+    "email": "hanna.eklund@example.com",
+    "department": "marketing",
+    "salary": 46000
+  },
+  {
+    "first_name": "Robert",
+    "last_name": "Larsson",
+    "phone_number": "+46706677889",
+    "email": "robert.larsson@example.com",
+    "department": "HR",
+    "salary": 42000
+  },
+  {
+    "first_name": "Cecilia",
+    "last_name": "Söderberg",
+    "phone_number": "+46707788990",
+    "email": "cecilia.soderberg@example.com",
+    "department": "IT",
+    "salary": 48000
+  },
+  {
+    "first_name": "Victor",
+    "last_name": "Mårtensson",
+    "phone_number": "+46708899001",
+    "email": "victor.martensson@example.com",
+    "department": "sales",
+    "salary": 53000
+  },
+  {
+    "first_name": "Lovisa",
+    "last_name": "Wallin",
+    "phone_number": "+46709900112",
+    "email": "lovisa.wallin@example.com",
+    "department": "marketing",
+    "salary": 41000
+  },
+  {
+    "first_name": "Patrik",
+    "last_name": "Axelsson",
+    "phone_number": "+46700011223",
+    "email": "patrik.axelsson@example.com",
+    "department": "HR",
+    "salary": 43000
+  }
+]
