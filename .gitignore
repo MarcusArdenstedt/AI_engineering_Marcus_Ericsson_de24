@@ -213,3 +213,6 @@ __marimo__/
 
 *.duckdb
 *.duckdb.wal
+
+
+vector_database
